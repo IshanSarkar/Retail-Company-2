@@ -49,6 +49,7 @@ The Management team of the company wants to analyze the customer purchase behavi
 #### Analysis:
 The data represents a younger demographic, with certain occupations being more prevalent. The product categories with higher counts could be the ones that are more popular or commonly purchased among these individuals. This information could be useful for targeted marketing or product development strategies aimed at these specific demographics.<br>
 ![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/5bf42d94-5eab-4e68-ac96-c9779c8a12ae)![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/881aafba-1b06-40f4-96cf-00f2b7c70858)<br>
+
 #### Insights:
 - **Gender Distribution:** The majority of customers are male, making up 75% of the total.
 - **Age Distribution:** The largest age group among the customers is 26-35 years old, accounting for 40% of the total.
