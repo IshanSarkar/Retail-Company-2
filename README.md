@@ -78,6 +78,42 @@ The data represents a younger demographic, with certain occupations being more p
 - **Product_Category and Purchase:** These variables have a moderate negative correlation of -0.37. This suggests that as the product category number increases, the purchase amount tends to decrease.
 
 In **conclusion**, none of the variables have a strong correlation with each other based on the provided data. The strongest relationship is a moderate negative correlation between Product_Category and Purchase.<br>
+## Data Exploration
+![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/c50306ea-df9d-4e02-9d2f-4caedeee3878) ![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/646625fb-8d33-4efc-aa32-f1e50288777b) <br>
+#### Insignts and Analysis:
+- **Age Distribution:** The majority of customers fall within the age groups of 26-35 and 18-25, each contributing around 40% and 18% respectively to the total customer base.
+- **Product Category Preference by Age Group:**
+    - Product Category 1 and 5 seems to be popular across all age groups (25.52% and 27.43%), with the highest proportion of customers from age 26-35 (41.49% and 40.72% respectively).
+    - Product Category 8 also sees notable interest which is 20.71% of total customers, with the highest proportion of customers from age 26-35 (38.84% of all the age groups in that product category).
+    - Certain product categories, like 9, 14, 17, etc., have very low overall proportions across all age groups which are 00.07%, 00.27%, 00.10% respectively.
+- **Age Group Analysis:**
+    - Younger age groups (0-17, 18-25) tend to have a higher proportion (Total of 20.86%) of customers compared to older age groups in most product categories.
+    - Middle-aged groups (36-45, 46-50, 51-55) show relatively consistent proportions across various product categories (Ranges from 00.09%-26.70%, 00.07%-26.70% and 00.07%-26.70% respectively).
+    - The older age group (55+) tends to have lower proportions which is 3.9% across all product categories compared to other age groups.
+- **Overall Trend:** There's a gradual decline in proportions of customers as age increases, indicating that younger demographics are more actively engaged in purchasing across various product categories.
+- **Implications:** 
+    - Marketing efforts for products in Category 1 could be tailored more towards the 26-35 age group.
+    - Products in Category 5 seem to appeal to a wide range of age groups, suggesting potential broad market appeal or the need for varied marketing approaches targeting different age groups.
+    - Product categories with consistently low proportions across all age groups may require further analysis to understand customer preferences or may not align with the current customer base.
+![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/16508d01-f795-40e6-adba-bd3db463b375)<br>
+#### Insights and Analysis:
+- **Higher Median Purchase for Married Individuals Across All Age Groups:** Married individuals consistently exhibit higher median purchase amounts compared to unmarried individuals across all age groups. This indicates that, on average, married individuals tend to spend more than their unmarried counterparts within each age group.
+- **Wider Spread of Purchase Amounts for Married Individuals:** The spread of purchase amounts, as depicted by the height of the boxes and whiskers in a box plot, is wider for married individuals. This suggests that there is greater variability in purchase behavior among married individuals, with some spending significantly more and others spending significantly less compared to unmarried individuals.
+- **Highest Purchase Values in the Age Group 26–35 Regardless of Marital Status:** The age group 26–35 consistently demonstrates the highest purchase values irrespective of marital status. Additionally, there's not a significant disparity in purchase values between different marital statuses within each age group, indicating that age plays a more prominent role in purchase behavior than marital status within these age brackets.
+- **Significantly Lower Purchase Values in the Age Groups 0–17 and 55+:** The age groups 0–17 and 55+ exhibit notably lower purchase values compared to other age groups. This observation highlights certain demographic segments where purchasing activity may be lower, potentially due to factors such as dependence on others for finances in the case of minors or fixed incomes in retirement for older individuals.
+- **Overall Implications:** While married individuals tend to have higher median purchases across all age groups, the variability in their purchase behavior suggests a more diverse spending pattern compared to unmarried individuals. Age group 26–35 emerges as a significant demographic segment for high purchase activity, regardless of marital status, indicating a prime target for marketing efforts.
+![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/880d2607-f172-4fef-952e-7db644856d8f) ![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/7867f713-9054-4386-9ec3-1cd4508752a5) <br>
+#### Insights:
+- **Product Category 5** holds the highest overall proportion of purchases, accounting for 27.44% of all purchases. Both male and female customers significantly contribute to this category, with females representing 27.80% and males 72.19% of its distribution. **Product Category 1** closely follows, representing 25.52% of all purchases, with a relatively higher contribution from male customers (82.31%). **Product Category 8** also exhibits notable popularity, contributing 20.71% of all purchases, with a higher proportion of male customers (70.54%).
+- Male customers demonstrate a stronger preference for Product Categories 1, 5, and 8, representing 27.89%, 26.30%, and 19.40% respectively of the total male customer distribution. Conversely, female customers exhibit relatively similar preferences, with percentages of 18.28%, 30.89%, and 24.70% for the same categories out of the total female customer base.
+- Certain product categories (e.g., Categories 9, 17, 18, 19, and 20) show relatively low proportions of purchases for both genders, suggesting that these categories may not be as popular among either male or female customers (0.07%, 0.10%, 0.56%, 0.29%, and 0.46% respectively out of the total customer distribution).
+
+#### Overall Metrics:
+- Product Category 5 maintains the highest proportion of purchases, followed closely by Category 1 and then Category 8 for both male and female customers.
+- Male customers contribute more to the overall purchases compared to female customers across all product categories, representing a significant majority of 75.31% of the total customer base.
+
+
+
 
 
 
