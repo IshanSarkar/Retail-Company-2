@@ -4,7 +4,7 @@
 
 ## Business Problem:
 The Management team of the company wants to analyze the customer purchase behavior (specifically, purchase amount) against the customer’s gender and the various other factors to help the business make better decisions. They want to understand if the spending habits differ between male and female customers and so on.
-![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/54f42df0-3011-473e-8c2f-c3c170664355) <br>
+
 ## Dataset Characteristics
 ![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/9065fa7b-d78c-42fe-9c99-626f454f9457)<br>
 ![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/a2c77a5a-60a7-40a6-8719-3fee5cc40471)![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/179520d0-75b5-4087-8cfa-181132a6ab0b)
