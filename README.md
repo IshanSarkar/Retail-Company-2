@@ -31,7 +31,8 @@ The Management team of the company wants to analyze the customer purchase behavi
 - The highest peak is around a purchase price of 5000-7500, indicating that this is the most common purchase price range.
 - There is another noticeable peak around 15000, suggesting another common price point for purchases.
 - It seems that this could be a multimodal distribution, which indicates that there are different groups within the data. Each mode could potentially represent a different group. The prominent peaks could be due to popular products priced at those specific amounts or it could indicate preferred spending amounts by customers.
-![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/9c236769-8a95-4d09-83f3-2841acd83282)<br>\#### Insights:
+![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/9c236769-8a95-4d09-83f3-2841acd83282)<br>
+#### Insights:
 - **Gender:** The purchase amounts are relatively similar between genders F and M, with M having a slightly wider range.
 - **City Category:** City category B has the highest median purchase amount, followed by C and A. The interquartile range is similar across all city categories.
 - **Stay in Current City Years:** There is no significant difference in purchase amounts based on the number of years stayed in the current city. All categories have a similar median and interquartile range.
