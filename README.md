@@ -1,4 +1,4 @@
-# Data Analysis of Multinational Retail Corporation
+![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/54f42df0-3011-473e-8c2f-c3c170664355)# Data Analysis of Multinational Retail Corporation
 - Language: Python
 - Libraries: NumPy, Pandas, Matplotlib, Seaborn, Math, Norm
 
@@ -111,6 +111,39 @@ In **conclusion**, none of the variables have a strong correlation with each oth
 #### Overall Metrics:
 - Product Category 5 maintains the highest proportion of purchases, followed closely by Category 1 and then Category 8 for both male and female customers.
 - Male customers contribute more to the overall purchases compared to female customers across all product categories, representing a significant majority of 75.31% of the total customer base.
+## Effect of Different Genders on Purchase
+As we know, the CLT states that, regardless of the shape of the population distribution, the distribution of sample means will approach a normal distribution as the sample size increases, and by applying the CLT, we can assume that the distribution of sample means is approximately normal, which allows us to make inferences about the population parameter (in this case, the average amount spent per gender) using the properties of the normal distribution. <br>
+**For the entire population of Males:** <br>
+![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/a66b5a88-7c88-4d0f-87ab-b50e589a674d) ![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/01ffc2b9-3596-442d-b0ea-0c36ea1406d1) <br>
+**For the entire population of Females:** <br>
+![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/586935d0-1044-4cf5-9f36-49f1b90ea866) ![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/97c445db-5062-43f2-88e2-7f835f734689) <br>
+**Taking the sample size of 300 for each gender** <br>
+**For male:** <br>
+![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/cb686cc6-70d1-458c-ba5f-9ff608fab614) <br>
+So, to minimize the variation, we are conducting 10,000 iterations of samples, each with a size of 300. By doing so, we obtain a normal distribution of male purchase samples. <br>
+![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/0774c67a-0066-4a76-b250-60ee5a3a935c) <br>
+**For Female:** <br>
+![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/aa011fe6-79ef-4ad8-8e66-cd3f26bf1b3e) <br>
+![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/fba0f46c-8560-4fd7-aff8-e63b28e29bcb) <br>
+**Taking the sample size of 3000 for each gender <br><br>
+For male:** <br>
+![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/3f1fb990-d627-4514-aad3-3b61ecf0c2c6) <br>
+![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/33097cc8-5af7-4ee4-bd2c-3732710a2020) <br>
+**For Female:** <br>
+![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/306b27d4-d3d0-4c3a-a5b0-edcf8f6ff01a) <br>
+![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/0e644ac5-71c2-4db8-8eda-b16461a0e8db) <br>
+**Taking the sample size of 30000 for each gender <br><br>
+For male:** <br>
+
+
+
+
+
+
+
+
+
+
 
 
 
