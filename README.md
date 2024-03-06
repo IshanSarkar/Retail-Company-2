@@ -216,7 +216,7 @@ The average amount spent by each Age Group of sample size 300 at a 95% confidenc
 - 36-45: (9282.22, 9347.56)
 - 46-50: (9169.05, 9233.43)
 - 51-55: (9493.14, 9558.8)
-- 55+: (9285.52, 9349.32)
+- 55+: (9285.52, 9349.32)<br>
 **Taking the sample size of 3000 for each Age Group** <br>
 ![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/9ce2b065-4f12-4ad4-948f-8bc0bd924e45)<br>
 The average amount spent by each Age Group of sample size 3000 at a 95% confidence interval is:
