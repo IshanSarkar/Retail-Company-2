@@ -197,7 +197,7 @@ While the data suggest a tendency for males to spend more on average compared to
 #### Summary:
 Based on the provided data, there doesn't appear to be a significant difference in the amount spent based on marital status. Both not-married and married individuals seem to spend similar amounts, as indicated by the overlapping confidence intervals across different sample sizes.
 
-## Effect of different Age Groups on Purchase
+## Effect of Different Age Groups on Purchase
 ![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/6583234e-1759-4f6b-8b1a-e8cc86c2ad92) <br>
 The average amount spent at a 95% confidence interval on the entire dataset by:
 - 0-17 Age Group: (8844.36, 9006.72)
@@ -206,7 +206,7 @@ The average amount spent at a 95% confidence interval on the entire dataset by:
 - 36-45 Age Group: (9291.37, 9350.41)
 - 46-50 Age Group: (9153.24, 9243.82)
 - 51-55 Age Group: (9469.13, 9570.44)
-- 55+ Age Group: (9253.36, 9386.16)
+- 55+ Age Group: (9253.36, 9386.16) <br>
 **Taking the sample size of 300 for each Age Group** <br>
 ![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/7b3797e7-0dfa-4c2b-8dbb-243323922f15) <br>
 The average amount spent by each Age Group of sample size 300 at a 95% confidence interval is:
@@ -219,14 +219,14 @@ The average amount spent by each Age Group of sample size 300 at a 95% confidenc
 - 55+: (9285.52, 9349.32)
 **Taking the sample size of 3000 for each Age Group** <br>
 ![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/9ce2b065-4f12-4ad4-948f-8bc0bd924e45)<br>
-The average amount spent by each Age Group of sample size 3000 at 95% confidence interval is:
+The average amount spent by each Age Group of sample size 3000 at a 95% confidence interval is:
 - 0-17: (8922.71, 8928.65)
 - 18-25: (9160.72, 9167.22)
 - 26-35: (9241.77, 9248.29)
 - 36-45: (9315.63, 9322.03)
 - 46-50: (9196.21, 9202.39)
 - 51-55: (9516.64, 9522.98)
-- 55+: (9316.52, 9322.52)
+- 55+: (9316.52, 9322.52) <br>
 We cannot take the sample size of 30000 as the 0-17 Age Group's population size is 15102. So, we are taking a 10000 sample size. <br>
 ![image](https://github.com/IshanSarkar/Retail-Company-2/assets/160044904/101d57f7-3dbc-45cc-9803-127e32c3cd35) <br>
 The average amount spent by each Age Group of sample size 10000 at 95% confidence interval is:
